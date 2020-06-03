@@ -34,7 +34,8 @@ Bei bestehendem Vertrag ist der Name/Anrede des Vertragspartners über ein [spez
 nur mit "amtlichem Dokument" änderbar (bei mir war ihnen allerdings der DGTI-Ausweis amtlich genug, nicht sicher ob das beabsichtigt war oder Unachtsamkeit)  
 
 ### Mainova Strom
-Änderung per Nachricht an Support -> Fordert "amtliches Dokument" (angeblich aus Datenschutzgründen - WTF?).
+Änderung per Nachricht an Support -> Fordert "amtliches Dokument" (angeblich aus Datenschutzgründen - WTF?).  
+-> Gesundheitskarte ist amtlich genug
 
 ### N26
 Name nur amtlich änderbar, keine Kulanz für Karten
