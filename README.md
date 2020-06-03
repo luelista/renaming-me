@@ -3,8 +3,7 @@
 ## Institutionen
 
 ### TU Darmstadt
-Antrag auf Eintrag eines vom Geburtsnamen abweichenden Vornamen und TUCaN  
-http://ag-trans-hopo.org/Materialsammlung/Material_Rechtliches/GutachtenTIN-Vornamen_2019-10-20_UL+AT.pdf
+[Antrag auf Eintrag eines vom Geburtsnamen abweichenden Vornamen und TUCaN](http://ag-trans-hopo.org/Materialsammlung/Material_Rechtliches/GutachtenTIN-Vornamen_2019-10-20_UL+AT.pdf)
 
 Danach:
 * HRZ kontaktieren um neue Mail-Adresse zu erhalten
@@ -14,8 +13,7 @@ Danach:
 * Neuen Studiausweis beantragen (??? oder geht das automatisch)
 * ULB kontaktieren für Datenaktualisierung
 * Informatik: Admins Informatik-Moodle und ISP kontaktieren für Datenaktualisierung
-* Internationalen Studiausweis (ISIC) beantragen, da dieser vom RMV akzeptiert wird (im Gegensatz wohl zur Athene-Karte)  
-  https://www.isic.de/de/isic-beantragen/
+* [Internationalen Studiausweis (ISIC)](https://www.isic.de/de/isic-beantragen/) beantragen, da dieser vom RMV akzeptiert wird (im Gegensatz wohl zur Athene-Karte)  
 
 ### TK
 Name im Webinterface frei änderbar, Anrede nicht.  
