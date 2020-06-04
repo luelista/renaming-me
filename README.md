@@ -26,6 +26,12 @@ Um ein neues Bild auf der Karte zu hinterlegen (am besten vor der Namensänderun
 sonst bekommt man evtl die Karte wieder mit dem alten Bild) an den Support schreiben 
 und einen neuen Einmalcode zum Bild hochladen anfordern
 
+### Beitragsservice
+Name und Anrede frei änderbar per [Onlineformular](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html) (ohne Nachweis)
+
+### BNetzA (Amateurfunk)
+Amtliches Dokument (Personalausweis) erforderlich, Kontakt per Mail an Dort10-Postfach@BNetzA.de
+
 ## Firmen
 
 ### Telekom Festnetz
@@ -48,9 +54,6 @@ Bei Neuregistrierung wurde der Vorname nicht allzu genau geprüft (Video-Ident, 
 ### ING Diba
 Onlineformular mit Auswahlmöglichkeit „Trans“, Uploadformular für DGTI-Ausweis. Aber: Danach 
 keine Änderung, sondern Brief mit der Aufforderung einen „Gerichtsbeschluss“ einzusenden. WTF?
-
-### Beitragsservice
-Name und Anrede frei änderbar per [Onlineformular](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html) (ohne Nachweis)
 
 
 ## Inoffizielle Ausweise
