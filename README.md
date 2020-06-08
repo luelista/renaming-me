@@ -49,6 +49,10 @@ keine Änderung, sondern Brief mit der Aufforderung einen „Gerichtsbeschluss�
 ### Beitragsservice
 Name und Anrede frei änderbar per [Onlineformular](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html) (ohne Nachweis)
 
+## Sonstige Stellen
+
+### CdE e.V.
+Name frei wählbar. Geschlecht änderbar mittels eMail an Datenbankteam oder persönliche Kontaktierung einer Person mit Administratorrechten (falls persönlich bekannt) (ohne Nachweis).
 
 ## Inoffizielle Ausweise
 
