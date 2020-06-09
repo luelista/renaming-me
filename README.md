@@ -47,7 +47,8 @@ nur mit "amtlichem Dokument" änderbar (bei mir war ihnen allerdings der DGTI-Au
 -> Gesundheitskarte ist amtlich genug
 
 ### N26
-Name nur amtlich änderbar, keine Kulanz für Karten
+Name nur amtlich änderbar (Personalausweis wird gefordert, akzeptieren nicht Geburtsurkunde o.ä.)  
+keinerlei Entgegenkommen, z.B. keine Karten mit anderem Namen
 
 Bei Neuregistrierung wurde der Vorname nicht allzu genau geprüft (Video-Ident, abgekürzter Vorname wurde akzeptiert)
 
