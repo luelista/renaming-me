@@ -55,10 +55,6 @@ Bei Neuregistrierung wurde der Vorname nicht allzu genau geprüft (Video-Ident, 
 ### ING Diba
 Onlineformular mit Auswahlmöglichkeit „Trans“, Uploadformular für DGTI-Ausweis. Aber: Danach keine Änderung, sondern Brief mit der Aufforderung einen „Gerichtsbeschluss“ einzusenden. WTF?
 
-
-### Beitragsservice
-Name und Anrede frei änderbar per [Onlineformular](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html) (ohne Nachweis)
-
 ## Sonstige Stellen
 
 ### CdE e.V.
