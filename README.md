@@ -56,9 +56,6 @@ Bei Neuregistrierung wurde der Vorname nicht allzu genau geprüft (Video-Ident, 
 Onlineformular mit Auswahlmöglichkeit „Trans“, Uploadformular für DGTI-Ausweis. Aber: Danach keine Änderung, sondern Brief mit der Aufforderung einen „Gerichtsbeschluss“ einzusenden. WTF?!
 Mit offiziellem Dokument (Personalausweis) Änderung innerhalb einiger Wochen, neue Karten werden automatisch und kostenlos zugeschickt. Achtung: Girocard wird schon einige Zeit bevor man die neue erhält gesperrt (ggf. vorher Geld abheben).
 
-### Beitragsservice
-Name und Anrede frei änderbar per [Onlineformular](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html) (ohne Nachweis)
-
 ## Vereine
 
 ### CdE e.V.
