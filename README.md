@@ -3,7 +3,7 @@
 ## Institutionen
 
 ### TU Darmstadt
-[Antrag auf Eintrag eines vom Geburtsnamen abweichenden Vornamen und TUCaN](http://ag-trans-hopo.org/Materialsammlung/Material_Rechtliches/GutachtenTIN-Vornamen_2019-10-20_UL+AT.pdf)
+[Antrag auf Eintrag eines vom Geburtsnamen abweichenden Vornamen und TUCaN](http://ag-trans-hopo.org/Materialsammlung/Material_Rechtliches/GutachtenTIN-Vornamen_2019-10-20_UL+AT.pdf) (Bearbeitung des Antrags dauert teilweise Monate!)
 
 Danach (sobald Name im TUCaN-Portal geändert):
 * (Unklar ob folgende Schritte nötig sind, oder ob das automatisch passiert: [HRZ kontaktieren](https://www.hrz.tu-darmstadt.de/support/hrz_service/hrz_service_kontakt/index.de.jsp) um neue Mail-Adresse zu erhalten. Falls Doppelname, sicherheitshalber angeben, wie die neue Adresse lauten soll (erstname.nachname@ oder erstname_zweitname.nachname@).) Im [IDM-Portal](https://www.idm.tu-darmstadt.de) unter Kontaktdaten verwalten ->  Kontaktdaten -> Bearbeiten -> E-Mail-Angaben prüfen, ob die neue E-Mail auswählbar ist. Falls Doppelname, unter E-Mail-Angaben und unter Anzuzeigender Name auswählen, welche Vornamen angezeigt werden sollen. Sobald die neue E-Mail-Adresse eingestellt ist, HRZ kontaktieren, damit sie zur Haupt-Mailadresse umgestellt wird.
@@ -53,12 +53,19 @@ keinerlei Entgegenkommen, z.B. keine Karten mit anderem Namen
 Bei Neuregistrierung wurde der Vorname nicht allzu genau geprüft (Video-Ident, abgekürzter Vorname wurde akzeptiert)
 
 ### ING Diba
-Onlineformular mit Auswahlmöglichkeit „Trans“, Uploadformular für DGTI-Ausweis. Aber: Danach keine Änderung, sondern Brief mit der Aufforderung einen „Gerichtsbeschluss“ einzusenden. WTF?
+Onlineformular mit Auswahlmöglichkeit „Trans“, Uploadformular für DGTI-Ausweis. Aber: Danach keine Änderung, sondern Brief mit der Aufforderung einen „Gerichtsbeschluss“ einzusenden. WTF?!
+Mit offiziellem Dokument (Personalausweis) Änderung innerhalb einiger Wochen, neue Karten werden automatisch und kostenlos zugeschickt. Achtung: Girocard wird schon einige Zeit bevor man die neue erhält gesperrt (ggf. vorher Geld abheben).
 
-## Sonstige Stellen
+## Vereine
 
 ### CdE e.V.
 Name frei wählbar. Geschlecht änderbar mittels eMail an Datenbankteam oder persönliche Kontaktierung einer Person mit Administratorrechten (falls persönlich bekannt) (ohne Nachweis).
+
+### DARC e.V.
+Name über den Mitgliederbereich auf der Webseite änderbar, Anrede nur nach Vorlage offizieller Dokumente (WTF?!).
+
+### CCC e.V.
+Alles per Mail an office (at) ccc.de ohne weiteres änderbar (Chaosnummer angeben).
 
 ## Inoffizielle Ausweise
 
